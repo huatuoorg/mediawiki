@@ -627,6 +627,9 @@ $preloadedMessages = array(
 	'vector-view-edit',
 	'vector-view-history',
 	'vector-view-view',
+	'apex-view-edit',
+	'apex-view-history',
+	'apex-view-view',
 	'viewcount',
 	'views',
 	'whatlinkshere',
@@ -834,6 +837,20 @@ future releases. Also note that since each list value is wrapped in a unique
 'actions'                        => 'Actions',
 'namespaces'                     => 'Namespaces',
 'variants'                       => 'Variants',
+
+# Apex skin
+'apex-action-addsection'       => 'Add topic',
+'apex-action-delete'           => 'Delete',
+'apex-action-move'             => 'Move',
+'apex-action-protect'          => 'Protect',
+'apex-action-undelete'         => 'Undelete',
+'apex-action-unprotect'        => 'Change protection',
+'apex-simplesearch-preference' => 'Enable enhanced search suggestions (Vector skin only)',
+'apex-view-create'             => 'Create',
+'apex-view-edit'               => 'Edit',
+'apex-view-history'            => 'View history',
+'apex-view-view'               => 'Read',
+'apex-view-viewsource'         => 'View source',
 
 'navigation-heading' => 'Navigation menu',
 'errorpagetitle'     => 'Error',
@@ -3797,6 +3814,7 @@ You can view its source',
 'monobook.css'            => '/* CSS placed here will affect users of the MonoBook skin */', # only translate this message to other languages if you have to change it
 'modern.css'              => '/* CSS placed here will affect users of the Modern skin */', # only translate this message to other languages if you have to change it
 'vector.css'              => '/* CSS placed here will affect users of the Vector skin */', # only translate this message to other languages if you have to change it
+'apex.css'              => '/* CSS placed here will affect users of the Apex skin */', # only translate this message to other languages if you have to change it
 'print.css'               => '/* CSS placed here will affect the print output */', # only translate this message to other languages if you have to change it
 'noscript.css'            => '/* CSS placed here will affect users with JavaScript disabled */', # only translate this message to other languages if you have to change it
 'group-autoconfirmed.css' => '/* CSS placed here will affect autoconfirmed users only */', # only translate this message to other languages if you have to change it
@@ -3811,6 +3829,7 @@ You can view its source',
 'monobook.js'            => '/* Any JavaScript here will be loaded for users using the MonoBook skin */', # only translate this message to other languages if you have to change it
 'modern.js'              => '/* Any JavaScript here will be loaded for users using the Modern skin */', # only translate this message to other languages if you have to change it
 'vector.js'              => '/* Any JavaScript here will be loaded for users using the Vector skin */', # only translate this message to other languages if you have to change it
+'apex.js'              => '/* Any JavaScript here will be loaded for users using the Apex skin */', # only translate this message to other languages if you have to change it
 'group-autoconfirmed.js' => '/* Any JavaScript here will be loaded for autoconfirmed users only */', # only translate this message to other languages if you have to change it
 'group-user.js'          => '/* Any JavaScript here will be loaded for registered users only */', # only translate this message to other languages if you have to change it
 'group-bot.js'           => '/* Any JavaScript here will be loaded for bots only */', # only translate this message to other languages if you have to change it
@@ -3899,6 +3918,7 @@ Do <strong>NOT</strong> fill this in!",
 'skinname-monobook'    => 'MonoBook', # only translate this message to other languages if you have to change it
 'skinname-modern'      => 'Modern', # only translate this message to other languages if you have to change it
 'skinname-vector'      => 'Vector', # only translate this message to other languages if you have to change it
+'skinname-apex'      => 'Apex', # only translate this message to other languages if you have to change it
 
 # Patrolling
 'markaspatrolleddiff'                 => 'Mark as patrolled',
